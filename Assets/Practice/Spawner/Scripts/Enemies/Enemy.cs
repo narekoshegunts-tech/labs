@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.AI;
+
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class Enemy : MonoBehaviour
